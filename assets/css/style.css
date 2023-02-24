@@ -368,7 +368,11 @@ section {
 }
 
 .error h1 {
-  padding-bottom: 20px;
+  color: var(--warna-utama);
+}
+
+.error h2 {
+  padding-top: 20px;
 }
 
 .error-btn {
