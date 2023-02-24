@@ -143,6 +143,7 @@ section {
 }
 
 .about-text p {
+  text-align: justify;
   margin: 0.8rem 0 1.8rem;
   line-height: 1.7rem;
 }
